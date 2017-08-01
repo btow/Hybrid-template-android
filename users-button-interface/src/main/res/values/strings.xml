@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Users-interface</string>
+    <string name="title_1">First</string>
+    <string name="title_2">Second</string>
+    <string name="title_3">Third</string>
+    <string name="title_4">Fourth</string>
+    <string name="title_5">Fifth</string>
+</resources>
