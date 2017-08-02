@@ -1,1 +1,1 @@
-include ':catalog', ':users-button-interface'
+include ':app', ':users-button-interface'
