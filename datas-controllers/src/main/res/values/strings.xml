@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hybrid-template-android</string>
+    <string name="error_when_writing_data_from_the_response_db">Error when writing data from the response DB:</string>
+    <string name="result_code">Result code:</string>
+    <string name="message">message:</string>
+    <string name="the_response_is_null">The response is null</string>
+    <string name="error_when_copying_data">Error when copying data:</string>
+    <string name="query_result_is_empty">The query result is empty</string>
+    <string name="db_cursor_is_null">DB cursor is null</string>
+</resources>

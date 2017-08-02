@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Hybrid-template-android.iml" filepath="$PROJECT_DIR$/Hybrid-template-android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datas-controllers/datas-controllers.iml" filepath="$PROJECT_DIR$/datas-controllers/datas-controllers.iml" />
       <module fileurl="file://$PROJECT_DIR$/users-button-interface/users-button-interface.iml" filepath="$PROJECT_DIR$/users-button-interface/users-button-interface.iml" />
     </modules>
   </component>
