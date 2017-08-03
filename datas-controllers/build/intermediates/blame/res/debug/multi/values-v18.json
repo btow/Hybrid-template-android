@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\vv-bobkov\\AndroidStudioProjects\\Hybrid-template-android\\datas-controllers\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\vv-bobkov\\.android\\build-cache\\6463a4f1d8cb24b177ead3988e5095007589bd4d\\output\\res\\values-v18\\values-v18.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml:1:1-15:12
+	package
+		ADDED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml:3:5-60
+		INJECTED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml:5:5-13:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\vv-bobkov\.android\build-cache\4358bb7548edeaaddf977789899a3dac3cf7f32d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vv-bobkov\.android\build-cache\6463a4f1d8cb24b177ead3988e5095007589bd4d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vv-bobkov\.android\build-cache\2d3ee83c792c87902363477d0e1eb78cfab902f5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vv-bobkov\.android\build-cache\f58a0ce65bf854614f9e9c1d141f9c9672a07fe9\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\vv-bobkov\.android\build-cache\f528fdba96fb821af2993e01c359053fa3814916\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vv-bobkov\.android\build-cache\c412f6c7b9dad91bc448b519d858ecd26aafd3be\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vv-bobkov\.android\build-cache\075e573cb4e930d9bcbf452e3c520c5212decb43\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vv-bobkov\.android\build-cache\21cbaa5984fdbc5ab91001107daa4325366ade3c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vv-bobkov\.android\build-cache\690dea17692657f59171afc11e757c388b61d246\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vv-bobkov\.android\build-cache\456329e984e0692b4cd3f30f9896133da393c8f1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vv-bobkov\.android\build-cache\34a92e1de3be2ad4ae3849d54100559add8cdf15\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml:11:9-40
+uses-sdk
+INJECTED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] C:\Users\vv-bobkov\.android\build-cache\4358bb7548edeaaddf977789899a3dac3cf7f32d\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vv-bobkov\.android\build-cache\6463a4f1d8cb24b177ead3988e5095007589bd4d\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vv-bobkov\.android\build-cache\2d3ee83c792c87902363477d0e1eb78cfab902f5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vv-bobkov\.android\build-cache\f58a0ce65bf854614f9e9c1d141f9c9672a07fe9\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\vv-bobkov\.android\build-cache\f528fdba96fb821af2993e01c359053fa3814916\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vv-bobkov\.android\build-cache\c412f6c7b9dad91bc448b519d858ecd26aafd3be\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vv-bobkov\.android\build-cache\075e573cb4e930d9bcbf452e3c520c5212decb43\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vv-bobkov\.android\build-cache\21cbaa5984fdbc5ab91001107daa4325366ade3c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vv-bobkov\.android\build-cache\690dea17692657f59171afc11e757c388b61d246\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\vv-bobkov\.android\build-cache\137827e569e5d4018fcd0d9a56c90782770386a4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vv-bobkov\.android\build-cache\456329e984e0692b4cd3f30f9896133da393c8f1\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\vv-bobkov\.android\build-cache\b6865cf21e960e8949d7fe22577a30028055ccda\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vv-bobkov\.android\build-cache\34a92e1de3be2ad4ae3849d54100559add8cdf15\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\vv-bobkov\.android\build-cache\4358bb7548edeaaddf977789899a3dac3cf7f32d\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vv-bobkov\AndroidStudioProjects\Hybrid-template-android\datas-controllers\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\vv-bobkov\.android\build-cache\4358bb7548edeaaddf977789899a3dac3cf7f32d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\vv-bobkov\.android\build-cache\6463a4f1d8cb24b177ead3988e5095007589bd4d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\vv-bobkov\.android\build-cache\2d3ee83c792c87902363477d0e1eb78cfab902f5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\vv-bobkov\.android\build-cache\f58a0ce65bf854614f9e9c1d141f9c9672a07fe9\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\vv-bobkov\.android\build-cache\f528fdba96fb821af2993e01c359053fa3814916\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\vv-bobkov\.android\build-cache\c412f6c7b9dad91bc448b519d858ecd26aafd3be\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\vv-bobkov\.android\build-cache\075e573cb4e930d9bcbf452e3c520c5212decb43\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\vv-bobkov\.android\build-cache\21cbaa5984fdbc5ab91001107daa4325366ade3c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\vv-bobkov\.android\build-cache\690dea17692657f59171afc11e757c388b61d246\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\vv-bobkov\.android\build-cache\137827e569e5d4018fcd0d9a56c90782770386a4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\vv-bobkov\.android\build-cache\456329e984e0692b4cd3f30f9896133da393c8f1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\vv-bobkov\.android\build-cache\34a92e1de3be2ad4ae3849d54100559add8cdf15\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\vv-bobkov\.android\build-cache\4358bb7548edeaaddf977789899a3dac3cf7f32d\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\vv-bobkov\.android\build-cache\4358bb7548edeaaddf977789899a3dac3cf7f32d\output\AndroidManifest.xml:26:9-47

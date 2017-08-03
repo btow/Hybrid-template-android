@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <string name="app_name">Hybrid-template-android</string>
+    <string name="db_cursor_is_null">DB cursor is null</string>
+    <string name="error_when_copying_data">Error when copying data:</string>
+    <string name="error_when_writing_data_from_the_response_db">Error when writing data from the response DB:</string>
+    <string name="message">message:</string>
+    <string name="query_result_is_empty">The query result is empty</string>
+    <string name="result_code">Result code:</string>
+    <string name="the_response_is_null">The response is null</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+</resources>
